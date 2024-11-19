@@ -1,0 +1,4 @@
+<launch>  
+    <node pkg="perfect_wall" name="perfect_wall" type="perfect_wall" output="screen" >
+    </node>  
+</launch>  
